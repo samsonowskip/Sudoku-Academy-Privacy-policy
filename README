@@ -2,7 +2,7 @@
 
 **Last updated: July 2026**
 
-Sudoku Academy ("the App") is developed and published by [Your Name / Company Name] ("we", "us", "our"). This Privacy Policy explains what information the App collects, how it is used, and the choices you have.
+Sudoku Academy ("the App") is developed and published by SamsiPlay. This Privacy Policy explains what information the App collects, how it is used, and the choices you have.
 
 ## Summary
 
@@ -35,8 +35,18 @@ If you have any trouble with the above or want guidance, contact us at the email
 ### Camera / Physical Board Scanning (Beta)
 The App includes an optional feature that lets you take a photo of a printed Sudoku puzzle to digitize it. This photo is processed entirely on your device — it is never uploaded to us or to any server. The only network activity involved is a one-time download of an open-source text-recognition library (Tesseract.js) from a public content delivery network (CDN), which does not receive any of your personal data or photos.
 
-### In-App Purchase (Premium / Pro)
-The App offers an optional one-time purchase ("Premium" or "Pro") that unlocks additional features (such as the Auto-Solver and Puzzle Library, including physical board scanning). Purchases are processed entirely by Google Play Billing. We do not receive or store your payment card details or billing address — Google handles payment information according to its own privacy policy, available at https://policies.google.com/privacy. We only receive confirmation that a purchase was completed, so the App can unlock the corresponding features on your device.
+In-App Purchases
+
+The App offers the following optional purchases, all processed entirely by Google Play Billing:
+
+Premium / Pro — a one-time purchase that unlocks additional features (such as the Puzzle Library, including physical board scanning, and other Pro features).
+Streak Freeze Token — a repeatable, consumable purchase. Each token can be used to restore one missed day of your Daily Challenge streak. You may purchase as many as you like.
+
+We do not receive or store your payment card details or billing address — Google handles payment information according to its own privacy policy, available at https://policies.google.com/privacy. We only receive confirmation that a purchase was completed, so the App can unlock or grant the corresponding item on your device.
+
+Pre-Registration Reward
+
+Players who pre-registered for the App on Google Play before its public launch automatically receive a one-time reward (a Streak Freeze Token and a cosmetic board skin) the first time they open the App after launch. This uses Google Play's own pre-registration reward system: the App checks with Google Play whether this reward was granted to your account, the same way it checks for a completed purchase, and unlocks the reward locally if so. No additional personal data is collected for this beyond what Google Play Billing already provides for any purchase confirmation (see above). Full terms for this promotion are available at: [LINK TO YOUR TERMS DOCUMENT — e.g. host the terms-pre-registration file I gave you earlier at another GitHub repo/page and link it here]
 
 ## Data We Do Not Collect
 
@@ -65,4 +75,4 @@ We may update this Privacy Policy from time to time — for example, if we add c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**[your-email@example.com]**
+samsi.appcontact@gmail.com
