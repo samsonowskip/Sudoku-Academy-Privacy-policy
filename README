@@ -23,12 +23,24 @@ If you choose to sign in, Google Play Games Services shares with us your Google 
 The leaderboard shows a running total of puzzles you've solved. Your display name and score on it may be visible to other players who also use Google Play Games. You can manage or revoke the App's access to your Google Play Games account at any time through your Google Account settings.
 
 ### Account & Data Deletion
-Sudoku Academy does not maintain its own account system — the optional sign-in is entirely managed by Google Play Games Services. To delete the data associated with your Play Games profile for this app (your player ID, unlocked achievements, and leaderboard score):
 
-1. Open the **Google Play Games** app (or Play Games Services settings within Google Play), go to your profile, and remove/unlink Sudoku Academy, **or** delete your Google Play Games profile entirely through your Google Account settings at https://myaccount.google.com/.
-2. This removes your achievements and leaderboard entry for this app from Google's systems. We never held a separate copy of this data ourselves.
+The **Sudoku Academy** app uses **Google Sign-In** for user authentication and **does not store any personal data on external servers or independent databases**. 
 
-All other data (game progress, statistics, Puzzle Library) lives only on your device — uninstalling the App or clearing its storage deletes it immediately and completely; there is no retention period, since we never had a copy to begin with.
+All application data (such as local progress and settings) is stored exclusively on your device.
+
+---
+
+### How to Delete Your Account Link and App Data
+
+ 1. Delete data stored locally on your device:
+* **Uninstall the app** from your device, or go to *Settings -> Apps -> Sudoku Academy -> Storage & cache -> Clear storage / Clear data*.
+* This action permanently deletes all saved progress and local app data.
+
+ 2. Revoke app access from your Google Account:
+You can remove the app's link to your Google Account at any time:
+1. Go to your Google Account management page: [https://myaccount.google.com/permissions](https://myaccount.google.com/permissions)
+2. Find **Sudoku Academy** under the list of third-party apps with account access.
+3. Click on the app and select **Remove Access** / **Delete all connections**.
 
 If you have any trouble with the above or want guidance, contact us at the email below.
 
